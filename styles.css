@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+#flex-item1{
+	background-color:green;
+	height:100px;
+	width:100px;}
+#flex-item2{background-color:red;
+	height:100px;
+	width:100px;
+	}
+#flex-item3{background-color:blue;
+	height:100px;
+	width:100px;
+		   }
